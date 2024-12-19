@@ -1,0 +1,52 @@
+/* src/components/Contact.css */
+.contact-container {
+    padding: 20px;
+  }
+  
+  .contact-details,
+  .contact-form,
+  .social-links {
+    margin-bottom: 20px;
+  }
+  
+  .contact-details p,
+  .contact-form form {
+    font-size: 18px;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .social-links a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
